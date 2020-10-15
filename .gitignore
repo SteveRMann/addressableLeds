@@ -1,0 +1,10 @@
+# .gitignore file
+# for XmasTree2_OTA
+
+*.tmp
+*.psd
+git.txt
+WIP/
+*.zip
+*.sch
+*.lnk
